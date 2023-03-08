@@ -1,0 +1,9 @@
+numpy
+pillow
+mss
+keyboard
+tensorflow
+keras
+scikit-learn
+opencv-python
+seaborn
