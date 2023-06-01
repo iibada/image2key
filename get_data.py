@@ -64,7 +64,8 @@ if __name__ == '__main__':
     ss_manager = mss()
     # frame = {"top":280, "left":0, "width":700, "height":200}  # dino
     # frame = {"top":468, "left":668, "width":586, "height":178}  # pacman
-    frame = {"top":300, "left":620, "width":680, "height":600}  # snake
+    # frame = {"top":300, "left":620, "width":680, "height":600}  # snake
+    frame = {"top":232, "left":480, "width":957, "height":644}
     
     FPS = 20
     tick = 0
